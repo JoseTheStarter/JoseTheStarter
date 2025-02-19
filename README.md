@@ -1,8 +1,7 @@
-Here’s a sample GitHub profile README that balances professionalism with a casual, approachable tone. It introduces your focus on AI and data science as a first-year student while keeping it friendly.
 
 ---
 
-## 👋 Hello, I'm [Your Name]!
+## 👋 Hello, I'm Jose Joby!
 
 I'm a **first-year student** passionate about **Artificial Intelligence** and **Data Science**. Currently, I’m diving into the world of algorithms, machine learning models, and all things AI-related. I’m excited to learn, build, and contribute to cool projects along the way.  
 
